@@ -1,0 +1,18 @@
+{
+  "name": "unsourcemap",
+  "version": "1.0.0",
+  "description": "map line and column to original file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":  "./bin/unsourcemap.js",
+  "respository": {
+    "type": "git",
+    "url": "https://github.com/sibsibsib/unsourcemap"
+  },
+  "license": "whatever",
+  "dependencies": {
+    "source-map": "0.5.3"
+  }
+}
